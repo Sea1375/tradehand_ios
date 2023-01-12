@@ -1,0 +1,54 @@
+{
+  "name": "com.froiden.worksuite",
+  "displayName": "worksuite",
+  "version": "1.0.4",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Apache Cordova Team",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "compare-func": "^2.0.0",
+    "cordova-plugin-camera": "^2.4.1",
+    "cordova-plugin-device": "^1.1.7",
+    "cordova-plugin-inappbrowser": "^4.0.0",
+    "cordova-plugin-keyboard": "^1.2.0",
+    "cordova-plugin-splashscreen": "^5.0.3"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-keyboard": {},
+      "cordova-plugin-splashscreen": {},
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-camera": {
+        "CAMERA_USAGE_DESCRIPTION": " ",
+        "PHOTOLIBRARY_USAGE_DESCRIPTION": " "
+      },
+      "cordova-plugin-device": {},
+      "cordova-plugin-inappbrowser": {},
+      "cordova-plugin-statusbar": {},
+      "phonegap-plugin-push": {},
+      "cordova-plugin-appversion": {}
+    },
+    "platforms": [
+      "ios"
+    ]
+  },
+  "devDependencies": {
+    "cordova-ios": "^6.2.0",
+    "cordova-plugin-appversion": "^1.0.0",
+    "cordova-plugin-compat": "^1.2.0",
+    "cordova-plugin-keyboard": "^1.2.0",
+    "cordova-plugin-statusbar": "github:apache/cordova-plugin-statusbar",
+    "cordova-plugin-whitelist": "^1.3.4",
+    "cordova-plugin-wkwebview-engine": "^1.2.1",
+    "cordova-support-google-services": "^1.3.2",
+    "phonegap-plugin-multidex": "^1.0.0",
+    "phonegap-plugin-push": "^2.3.0"
+  }
+}

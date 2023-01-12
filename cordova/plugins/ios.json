@@ -1,0 +1,42 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-appversion": {
+      "PACKAGE_NAME": "com.froiden.worksuite"
+    },
+    "cordova-plugin-camera": {
+      "CAMERA_USAGE_DESCRIPTION": " ",
+      "PHOTOLIBRARY_USAGE_DESCRIPTION": " ",
+      "PACKAGE_NAME": "com.froiden.worksuite"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.froiden.worksuite"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.froiden.worksuite"
+    },
+    "cordova-plugin-keyboard": {
+      "PACKAGE_NAME": "com.froiden.worksuite"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.froiden.worksuite"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.froiden.worksuite"
+    },
+    "phonegap-plugin-push": {
+      "PACKAGE_NAME": "com.froiden.worksuite"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "com.froiden.worksuite"
+    }
+  }
+}

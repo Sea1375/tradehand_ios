@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "86756203335",
+    "firebase_url": "https://worksuite-mobile.firebaseio.com",
+    "project_id": "worksuite-mobile",
+    "storage_bucket": "worksuite-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86756203335:android:5074ec5ea860cab3690a62",
+        "android_client_info": {
+          "package_name": "com.froiden.worksuite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86756203335-njtjuc507gcq6uj5eppes2pkqo54s1fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDONadjBNgAmieRwwz-PEwBXBHiRqzBvTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86756203335-njtjuc507gcq6uj5eppes2pkqo54s1fe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "86756203335-efhhvm805nu36ht3v4sj6ttqu10tb9vc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.froiden.worksuite",
+                "app_store_id": "1473933050"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
